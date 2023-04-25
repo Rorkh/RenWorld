@@ -1,0 +1,19 @@
+name: renworld
+version: 0.1.0
+
+authors:
+  - Rorkh <78957156+Rorkh@users.noreply.github.com>
+
+dependencies:
+  sdl:
+    github: ysbaddaden/sdl.cr
+  perlin_noise:
+    github: redcodefinal/perlin_noise
+
+targets:
+  renworld:
+    main: src/renworld.cr
+
+crystal: 1.7.3
+
+license: MIT

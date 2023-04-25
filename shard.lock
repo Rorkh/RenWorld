@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  perlin_noise:
+    git: https://github.com/redcodefinal/perlin_noise.git
+    version: 0.1.0+git.commit.94dd0fdcd2d5ddf194ad403861832d5fe1a71706
+
+  sdl:
+    git: https://github.com/ysbaddaden/sdl.cr.git
+    version: 0.1.0+git.commit.a86f867f8c7afbceb8d166ec09185ee14bf0c6d5
+
